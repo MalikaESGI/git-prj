@@ -1,23 +1,15 @@
   DATE DU TP : 12/01/2023
 
-  GROUPE / 
 
-  NOMS & PRENOMS : 
-
-  - MECHKAL MALIKA
-
-  - ASLA RAYAN
-
-  - 
   GROUPE /
 
   NOMS & PRENOMS :
 
-  - MECHKAL MALIKA
+  - MECHKAL MALIKA : ticket 2
 
-  - ASLA RAYAN
+  - ASLA RAYAN : ticket 1
 
-  - Lassiss YANIS
+  - Lassiss YANIS : ticket 3
 
 
 
