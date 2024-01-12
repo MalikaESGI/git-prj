@@ -18,7 +18,11 @@ section {
   margin-bottom: 30px;
   padding: 15px;
   border: 1px solid black;
+<<<<<<< HEAD
   border-radius: 20px;
+=======
+  background-color: #f0f0f0;
+>>>>>>> 7c23fb99c8a225eeb7f38342801ab1a51ddfcabb
 }
 
 h2 {
