@@ -9,7 +9,7 @@
 
   - ASLA RAYAN : ticket 1
 
-  - Lassiss YANIS : ticket 3
+  - Lassiss YANNIS : ticket 3
 
 
 
